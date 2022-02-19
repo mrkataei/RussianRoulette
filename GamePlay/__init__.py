@@ -1,12 +1,10 @@
 """
 Mr.kataei 2/19/2022
 """
-
-
 from time import sleep
 import random
-from player import Player
-from gun import Gun
+from GamePlay.gun import Gun
+from GamePlay.player import Player
 
 
 class Play:

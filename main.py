@@ -1,7 +1,7 @@
 """
 Mr.kataei 2/19/2022
 """
-from Gameplay.run import Play
+from GamePlay import Play
 
 
 if __name__ == '__main__':

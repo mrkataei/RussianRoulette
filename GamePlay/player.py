@@ -19,3 +19,7 @@ class Player:
             self.turn = False
         else:
             self.turn = True
+
+
+def __init__():
+    pass
