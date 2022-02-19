@@ -1,4 +1,4 @@
-from run import Play
+from Gameplay.run import Play
 
 
 if __name__ == '__main__':
